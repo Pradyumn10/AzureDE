@@ -1,0 +1,9 @@
+{
+	"name": "DemoDataFactoryPJ",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "335d4f56-5254-4c6f-afdc-a84d8d261004",
+		"tenantId": "d278b4d7-281b-4030-9f8d-66062ee9d0f5"
+	}
+}
